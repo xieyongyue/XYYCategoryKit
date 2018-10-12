@@ -1,0 +1,16 @@
+PODS:
+  - XYYCategoryKit (0.1.0)
+
+DEPENDENCIES:
+  - XYYCategoryKit (from `../`)
+
+EXTERNAL SOURCES:
+  XYYCategoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYYCategoryKit: 1713d43357540dbb94fe37d53f06500e5bddb5d2
+
+PODFILE CHECKSUM: 731d1e92c12fb3e0b2cc4ca1d5e22edcb25cbf99
+
+COCOAPODS: 1.5.3
