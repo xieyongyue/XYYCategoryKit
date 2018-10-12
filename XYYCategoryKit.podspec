@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/xieyongyue/XYYCategoryKit.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '谢勇岳' => 'xieyongyueios@163.com' }
+  s.author           = { 'xieyongyueios@163.com' => 'xieyongyueios@163.com' }
   s.source           = { :git => 'https://github.com/xieyongyue/XYYCategoryKit.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
